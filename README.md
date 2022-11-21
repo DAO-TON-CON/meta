@@ -523,8 +523,8 @@ Personal and Enterprise defaults to $0 (unlimited).
 
 # Rough Calculation for Estimating Costs
 
-* # of servers = Personal (1 server), Enterprise multi-server (varies, 2 app x 2 stream = 4 servers)
-* # Hours in state expected to be in estimated Scalar state
+* № of servers = Personal (1 server), Enterprise multi-server (varies, 2 app x 2 stream = 4 servers)
+* № Hours in state expected to be in estimated Scalar state
 * Cost for EC2 (US$/hr) see below estimate cost charts (alpha)
 * SCALAR Roughly estimate costs of running other services like RDS, EFS, and Data transfer costs.
    * 5x - roughly TOP ACTIVE CAPACITY, estimate a hard upper bound and heavy other service use: top CCU capacity, streaming videos, large scenes, avatars moving and talking.

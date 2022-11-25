@@ -646,3 +646,14 @@ Below are our CCU estimates for best performance. Performance may vary depending
 | c5.12xlarge                    | 192            | 5,760   | 9,600   | \$8.560                |
 | c5.18xlarge                    | 288            | 8,640   | 14,400  | \$12.640               |
 | c5.24xlarge                    | 384            | 11,520  | 19,200  | \$16.720               |
+
+# Blacklist
+
+* SAS Metagallery Project https://getgems.io/user/EQBeFb1rfpaOYwEalv8cS12KTIVV1h5JZNrsdT4CdtwZXhsF (60 TON | 100,000 Donation, 50,000 Svet, 37 CON)
+* The Black Lizards Project https://getgems.io/collection/EQC-LrIDjeLfH8phxxc9tTPLOrHHv-C5KTteRVVa2_je523N
+* Apes Collection (private room) https://opensea.io/collection/desperate-ape-wives
+* The Stefan collection (https://sasmetagallery.com /)
+* Zabaluev collection (https://sasmetagallery.com /)
+* Platon Yurich collection (https://sasmetagallery.com /)
+* Desturm collection (https://sasmetagallery.com /)
+* Gleb collection (https://sasmetagallery.com /)

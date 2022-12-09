@@ -16,7 +16,7 @@ First consider the competition. Across both native and web-based apps, here are 
 
 | | | | | | | | | |
 |:-------|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------|
-| <td colspan=5>Web Apps  <td colspan=4>Native Apps
+| <td colspan=5>Web Apps  <td colspan=3>Native Apps|
 | | Meta TON CON| Networked <br>A-Frame| FRAME |Spatial| Decentraland|Meta Horizons|Rec Room| AltSpace|
 | Mobile, desktop and VR support |✅|✅|✅|✅|✅|VR only|✅|✅
 | 3D Content and scene management |✅|✅|✅|✅|✅|✅|✅|✅

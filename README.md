@@ -11,6 +11,27 @@ If you have advice or experience sharing about:
 - Server resource usages
 - Tips
 
+## The immersive world as it is
+First consider the competition. Across both native and web-based apps, here are some key features to look for in immersive platforms:
+
+| | | | | | | | | |
+|:-------|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------|
+| <td colspan=5>Web Apps  <td colspan=4>Native Apps
+| | Meta TON CON| Networked <br>A-Frame| FRAME |Spatial| Decentraland|Meta Horizons|Rec Room| AltSpace|
+| Mobile, desktop and VR support |✅|✅|✅|✅|✅|VR only|✅|✅
+| 3D Content and scene management |✅|✅|✅|✅|✅|✅|✅|✅
+| Spatial networked audio |✅|❌|✅|✅|✅|✅|✅|✅
+| User moderation |✅|❌|✅|✅|✅|✅|✅|✅
+| Browser accessible (no app install) |✅|❌|✅|✅|✅|✅|✅|✅
+| Open Source |✅|✅|❌|❌|✅|❌|❌|❌
+| Automated self-hosted AWS networking |✅|❌|❌|❌|❌|❌|❌|❌
+| Custom interactivity |✅|✅|❌|❌|✅|❌|✅|❌
+| Custom UI/UX |✅|✅|❌|❌|✅|❌|❌|❌
+| Custom VFX and shaders |✅|✅|❌|❌|❌|❌|❌|❌
+| Strong tech support & community |✅|❌|❌|❌|❌|❌|❌|❌
+
+Also considered but not listed: Croquet.io, Rogue Engine, Wonderland Engine, and more.
+
 # Installing
 Remember! if you got a problem with npm or dependency that you cant to solve for 1 hour. Just restart your PC. Trust me.
 

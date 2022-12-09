@@ -1,0 +1,27 @@
+{
+    "name": "TON NFT Service",
+    "description": "Deploy NFT-video collection",
+    "image": "ipfs://CID/logo.png",
+    "attributes": [
+        {
+            "trait_type": "Generate items",
+            "value": "10000"
+        },
+        {
+            "trait_type": "Formatting taxonomy",
+            "value": "10000"
+        },
+        {
+            "trait_type": "LP 1",
+            "value": "10000 Svet"
+        },
+        {
+            "trait_type": "Price",
+            "value": "500 TON"
+        },
+        {
+            "trait_type": "Time of completion, days",
+            "value": "10"
+        }
+    ]
+}

@@ -17,7 +17,7 @@ First consider the competition. Across both native and web-based apps, here are 
 | | | | | | | | | |
 |:-------|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|:-------|
 | <td colspan=5>Web Apps  <td colspan=3>Native Apps|
-| | Meta TON CON| Networked <br>A-Frame| FRAME |Spatial| Decentraland|Meta Horizons|Rec Room| AltSpace|
+| | Hubs| Networked <br>A-Frame| FRAME |Spatial| Decentraland|Meta Horizons|Rec Room| AltSpace|
 | Mobile, desktop and VR support |✅|✅|✅|✅|✅|VR only|✅|✅
 | 3D Content and scene management |✅|✅|✅|✅|✅|✅|✅|✅
 | Spatial networked audio |✅|❌|✅|✅|✅|✅|✅|✅
@@ -32,8 +32,17 @@ First consider the competition. Across both native and web-based apps, here are 
 
 Also considered but not listed: Croquet.io, Rogue Engine, Wonderland Engine, and more.
 
+* Only web-based platforms can target billions of existing consumer devices with minimal friction, requiring neither download, app store nor install.
+* No Hubs competitor offers a completely open source stack to allow total customization to meet your brand's exacting design and UX standards.
+* No Hubs competitor offers secure, privacy-first, auto-scaling networking via AWS with minimal setup.
+* A 3D content management layer is key to easily update scenes and experiences.
+* Low-level graphics and shader APIs should be exposed to enable custom rendering, VFX and post-processing techniques, thereby expanding the range of creative possibilities.
+* Hubs boasts incredible developer support communities extending from WebGL, three.js, A-Frame, WebXR.
+
+These advantages add up to a fully-functional, ownable metaverse now, so how best can brands and agency teams convey their messages via Hubs?
+
+
 # Installing
-Remember! if you got a problem with npm or dependency that you cant to solve for 1 hour. Just restart your PC. Trust me.
 
 # Requirement:
 ### Hardware:

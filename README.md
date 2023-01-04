@@ -88,7 +88,7 @@ It's a backend server that uses elixir and phoenix.
 ### 1.1.1 Clone
 
 ```bash
-git clone https://github.com/mozilla/reticulum.git
+git clone https://github.com/DAO-TON-CON/reticulum.git
 cd reticulum
 ```
 
@@ -183,7 +183,7 @@ npm install
 
 ### 1.2.2 Setting up secret key
 
-thanks to this [comment](https://github.com/mozilla/hubs/discussions/3323#discussioncomment-1857495)
+thanks to this [comment](https://github.com/DAO-TON-CON/hubs/discussions/3323#discussioncomment-1857495)
 
 Generate RSA (Public and Private key) with [generator online](https://travistidwell.com/jsencrypt/demo/)
 
@@ -206,7 +206,7 @@ In here you can create/edit the scenes/buildings whatever you call it.
 ### 1.3.1 Clone
 
 ```
-git clone https://github.com/mozilla/Spoke.git
+git clone https://github.com/DAO-TON-CON/Spoke.git
 cd Spoke
 yarn install
 ```
@@ -229,12 +229,12 @@ cross-env NODE_ENV=development ROUTER_BASE_PATH=/spoke BASE_ASSETS_PATH=https://
 
 ## 1.4 Hubs
 
-In this [repo](https://github.com/mozilla/hubs) contains the hubs client and hubs admin (hubs/admin)
+In this [repo](https://github.com/DAO-TON-CON/hubs) contains the hubs client and hubs admin (hubs/admin)
 
 Clone and install dependencies
 
 ```
-git clone https://github.com/mozilla/hubs.git
+git clone https://github.com/DAO-TON-CON/hubs.git
 cd hubs
 npm ci
 ```
